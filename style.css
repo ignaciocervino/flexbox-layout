@@ -207,11 +207,11 @@
 }
 
 @media (max-width: 646px) {
-    #container{
+    #content{
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
         flex-wrap: wrap;
+        justify-content: space-between;
         padding-top: 20px;
         padding-bottom: 20px;
     }
@@ -230,6 +230,7 @@
         margin-left: 5px;
         margin-right: 5px;
     }
+    
 
     .project{
         margin-right: 10px;
